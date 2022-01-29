@@ -1,4 +1,4 @@
-<h1 align="center">Dashboard-Vanila-Tilt</h1> 
+<h1 align="center" color="#DC143C">Dashboard-Vanila-Tilt</h1> 
 
 
 ## Attractive Dashboard Card for Educational Institute
