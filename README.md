@@ -3,7 +3,7 @@
 
 ## Attractive Dashboard Card for Educational Institute
 <br>
-<p align="center" >🛑🛑 <a href="https://avishkarodrigo.github.io/Dashboard-Vanila-Tilt/"><h2>check this out<h2></a> 🛑🛑</p>
+<p align="center" ><h2>🛑🛑 <a href="https://avishkarodrigo.github.io/Dashboard-Vanila-Tilt/">check this out</a> 🛑🛑</h2></p>
 <br>
 
 **_HTML CSS Vanila-Tilt-Js_** 
