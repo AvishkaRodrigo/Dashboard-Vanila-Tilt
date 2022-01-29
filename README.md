@@ -1,8 +1,8 @@
 <h1 align="center">Dashboard-Vanila-Tilt</h1> 
-
+<br>
 
 ## Attractive Dashboard Card for Educational Institute
-🛑🛑 **[check this out](https://avishkarodrigo.github.io/Dashboard-Vanila-Tilt/)** 🛑🛑 </center>
+<p align="center">🛑🛑 <a font-weight="bold" href="https://avishkarodrigo.github.io/Dashboard-Vanila-Tilt/">check this out <a> 🛑🛑</p>
 
 <br>
  😜
