@@ -1,9 +1,9 @@
-<h1 align="center" style ="color : crimson ;">Dashboard-Vanila-Tilt</h1> 
+<h1 align="center">Dashboard-Vanila-Tilt</h1> 
 
 
 ## Attractive Dashboard Card for Educational Institute
 <br>
-<p align="center" >🛑🛑 <a style ="color : crimson;" href="https://avishkarodrigo.github.io/Dashboard-Vanila-Tilt/"><b>check this out<b></a> 🛑🛑</p>
+<p align="center" >🛑🛑 <a href="https://avishkarodrigo.github.io/Dashboard-Vanila-Tilt/"><h2>check this out<h2></a> 🛑🛑</p>
 <br>
 
 **_HTML CSS Vanila-Tilt-Js_** 
